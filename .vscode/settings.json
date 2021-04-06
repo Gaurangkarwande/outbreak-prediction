@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\gkarw\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.languageServer": "Pylance"
+}
